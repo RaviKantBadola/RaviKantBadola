@@ -18,7 +18,7 @@
 
 📫 &nbsp; How to reach me **ravi.rock7552@gmail.com**
 
-📄 &nbsp; Checkout my [Resume]()
+📄 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ZlXCfLOh912JJJk7DYsbNxQhCzlWr3qD/view?usp=sharing)
 
 <br/>
 
