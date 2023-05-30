@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikantbadola&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantbadola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikantbadola" alt="ravikantbadola" /></a> </p>
+
 
 - 🌱 I’m currently learning **Performance testing**
 
@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikantbadola&show_icons=true&locale=en" alt="ravikantbadola" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikantbadola&" alt="ravikantbadola" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikantbadola" alt="ravikantbadola" /></a> </p>
