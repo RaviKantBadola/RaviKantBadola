@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="260" width="375" alt="" src="https://user-images.githubusercontent.com/112663758/210334142-9208f722-e697-47e4-b854-6069c69cb60a.gif" />
+<img align="right" height="260" width="375" alt="" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
 <p> <img src="https://komarev.com/ghpvc/?username=ravikantbadola&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantbadola" /> </p>
 
