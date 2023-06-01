@@ -26,17 +26,34 @@
   
   <div align="center">
    
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+ <div align="center">
+    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
+   <br/>
+   <p>
+    <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" />
+    <img src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
+    <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
+    <img src="https://img.shields.io/badge/AndroidStudio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
+    <img src="https://img.shields.io/badge/Cucumber-348712?logo=cucumber&logoColor=fff&style=flat" alt="Cucumber" />
+    <img src="https://img.shields.io/badge/Firebase-ffdd00?logo=firebase&logoColor=white&style=flat" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Jenkins-181717?logo=jenkins&logoColor=D24939&style=flat" alt="Jenkins" />               <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&style=flat" alt="Python" />
+    <img src="https://img.shields.io/badge/javascript-181717?logo=javascript&logoColor=ffdd00&style=flat" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" /> 
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
+    <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" alt="github" /> 
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/React-4d4c4a?logo=react&logoColor=61DAFB&style=flat" alt="reactjs" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="css3" /> 
+    <img src="https://img.shields.io/badge/Node.js-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
+    <img src="https://img.shields.io/badge/ChakraUI-319795?logo=chakraui&logoColor=fff&style=flat" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/Visual-Studiocode-007ACC?logo=visualstudiocode&logoColor=007ACC&style=flat" alt="VScode" />
+    <img src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="Pycharm" />
+    <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" alt="Netlify" />
+   </p>
+</div>
+
 
   </div>
 
