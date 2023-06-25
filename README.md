@@ -16,6 +16,8 @@
 
 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
+👨‍💻 &nbsp; All of my projects are available on [Portfolio](https://ravikantbadola.github.io/)
+
 📫 &nbsp; How to reach me **ravi.rock7552@gmail.com**
 
 📄 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ZlXCfLOh912JJJk7DYsbNxQhCzlWr3qD/view?usp=sharing)
