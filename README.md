@@ -1,85 +1,354 @@
-
 <h1 align="center">Hi 👋, I'm Ravi Kant Badola</h1>
-<h3 align="center">A passionate Software Development Engineer in Test (SDET)</h3>
 
-### Glad to see you here! &nbsp; 
+<h3 align="center">
+QA Engineer | SDET | Software Testing | Automation | API Testing
+</h3>
 
-
-
-<img align="right" height="260" width="375" alt="" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
-
-<p> <img src="https://komarev.com/ghpvc/?username=ravikantbadola&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantbadola" /> </p>
-
-🛠 &nbsp; I’m currently learning **Sucurity Testing**
-
-💬 &nbsp; Ask me about **Testing**
-
-👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-
-👨‍💻 &nbsp; All of my projects are available on [Portfolio](https://ravikantbadola.github.io/)
-
-📫 &nbsp; How to reach me **ravi.rock7552@gmail.com**
-
-📄 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ZlXCfLOh912JJJk7DYsbNxQhCzlWr3qD/view?usp=sharing)
-
-<br/>
-
-<h1 align="center">Languages and Tools 💻</h1>  
-  
-  <div align="center">
-   
- <div align="center">
-    <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
-   <br/>
-   <p>
-    <img src="https://img.shields.io/badge/Cypress-311C87?logo=cypress&logoColor=fff&style=flat" alt="Cypress" />
-    <img src="https://img.shields.io/badge/Selenium-4d4c4a?logo=selenium&logoColor=43B02A&style=flat" alt="Selenium" />
-    <img src="https://img.shields.io/badge/JMeter-000000?logo=apachejmeter&logoColor=D22128&style=flat" alt="JMeter" />
-    <img src="https://img.shields.io/badge/AndroidStudio-669154?logo=androidstudio&logoColor=green&style=flat" alt="AndroidStudio" />   
-    <img src="https://img.shields.io/badge/Cucumber-348712?logo=cucumber&logoColor=fff&style=flat" alt="Cucumber" />
-    <img src="https://img.shields.io/badge/Jenkins-181717?logo=jenkins&logoColor=D24939&style=flat" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js" /> 
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman" /> 
-    <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat" alt="github" /> 
-    <img src="https://img.shields.io/badge/Node.js-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm" />
-    <img src="https://img.shields.io/badge/Visual-Studiocode-007ACC?logo=visualstudiocode&logoColor=007ACC&style=flat" alt="VScode" />
-    <img src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="Pycharm" />
-    <img src="https://img.shields.io/badge/Intellij-IDEA-000000?logo=intellijidea&logoColor=fff&style=flat" alt="Intellij" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" alt="Netlify" />
-   </p>
-</div>
-
-
-  </div>
-
- 
-</div>
-
-<br/>
-
- <div display="flex">
- 
-  <h1 align="center">Connect with me:</h1>
- 
- </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/ravi-badola-bb45b423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravibadola" height="30" width="40" /></a>
-<a href="https://instagram.com/ravi.badola01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi.badola01" height="30" width="40" /></a>
+  <a href="https://github.com/RaviKantBadola">
+    <img src="https://img.shields.io/github/followers/RaviKantBadola?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/RaviKantBadola?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-GitHub-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://ravikantbadola.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+  </a>
 </p>
 
-<br/>
-<div align="center" >
-  <h1 align='center'>Git Stats⚡</h1>
+---
 
-![](https://github-readme-stats.vercel.app/api?username=ravikantbadola&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ravikantbadola&theme=vue-dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikantbadola&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-  
- <br/>
-  
- <h1>Github Trophies🏆</h1>
- 
-![](https://github-profile-trophy.vercel.app/?username=ravikantbadola&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
-  
-</div>
+## 👨‍💻 About Me
 
+I'm a **QA Engineer / SDET** with **2.5+ years of experience** in software testing, working across **FinTech, Blockchain, Web, Mobile, and API-based applications**.
+
+I focus on building reliable software through a combination of:
+
+- 🧪 Manual & Functional Testing
+- 🔄 Regression, Smoke & Sanity Testing
+- 🤖 UI Automation
+- 🔌 API Testing
+- 📱 Mobile Application Testing
+- 🗄️ Database / SQL Validation
+- 🔗 Integration Testing
+- 🚀 UAT & Production Validation
+- 🐞 Defect Tracking & Root Cause Analysis
+- ⚙️ CI/CD & Test Automation
+
+I enjoy exploring application behavior, identifying edge cases, automating repetitive scenarios, and continuously improving software quality.
+
+---
+
+## 🛠️ Testing Expertise
+
+### 🧪 Manual Testing
+
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Integration Testing
+- System Testing
+- UAT
+- Exploratory Testing
+- Compatibility Testing
+- UI/UX Testing
+- End-to-End Testing
+
+### 🤖 Automation Testing
+
+- Selenium WebDriver
+- Cypress
+- Playwright
+- Appium
+- TestNG
+- JUnit
+- PyTest
+- Cucumber
+- Page Object Model (POM)
+
+### 🔌 API Testing
+
+- Postman
+- REST API Testing
+- REST Assured
+- HTTP Methods
+- Status Code Validation
+- Request / Response Validation
+- JSON Validation
+- Positive & Negative Testing
+- API Integration Testing
+
+### 🗄️ Database Testing
+
+- SQL
+- CRUD Operations
+- Joins
+- Subqueries
+- Data Validation
+- Backend Verification
+
+### 🚀 DevOps / Tools
+
+- Git
+- GitHub
+- Jenkins
+- Jira
+- Plane
+- Trello
+- VS Code
+- IntelliJ IDEA
+- Android Studio
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 The Souled Store — Automation Testing
+
+**Tech Stack:** Cypress | JavaScript | Page Object Model | UI Automation
+
+🔗 **Repository:**  
+https://github.com/RaviKantBadola/Thesouledstore-Automation
+
+### What I worked on
+
+- Automated critical e-commerce user workflows.
+- Created reusable automation components.
+- Implemented Page Object Model.
+- Automated UI validation using Cypress.
+- Covered functional and regression scenarios.
+- Validated page elements, navigation and user interactions.
+- Generated automation execution reports.
+
+### Key Learning
+
+- Cypress automation
+- JavaScript-based test automation
+- Reusable test architecture
+- Locator strategy
+- End-to-End automation
+
+---
+
+## 🔌 GitHub API Testing
+
+**Tech Stack:** REST API | Postman | JavaScript | API Testing
+
+🔗 **Repository:**  
+https://github.com/RaviKantBadola/Github-Api-Testing
+
+### What I worked on
+
+- Tested GitHub REST APIs.
+- Designed positive and negative test scenarios.
+- Validated HTTP status codes.
+- Validated request and response payloads.
+- Verified API response data.
+- Tested different API conditions and edge cases.
+- Practiced API functional and integration testing.
+
+### Key Learning
+
+- REST API testing
+- HTTP methods
+- Response validation
+- API assertions
+- Negative testing
+- Backend validation
+
+---
+
+## 📱 Mobile Application Automation
+
+**Tech Stack:** Java | Appium | TestNG | Android
+
+🔗 **Repository:**  
+https://github.com/RaviKantBadola/MobileAppAutomationJava
+
+### What I worked on
+
+- Automated Android application workflows.
+- Created functional mobile automation scripts.
+- Validated UI elements and user interactions.
+- Automated application navigation.
+- Executed regression scenarios.
+- Used reusable automation components.
+- Worked with Appium and TestNG.
+
+### Key Learning
+
+- Mobile automation
+- Appium
+- Android testing
+- TestNG
+- Mobile element identification
+- Automation framework structure
+
+---
+
+# 💼 Professional Experience
+
+### Quality Analyst — PlugSeal Innovation Services Pvt. Ltd.
+
+**Feb 2024 – Aug 2026**
+
+Worked on **FinTech and Blockchain applications** involving:
+
+- Loan Origination Systems
+- Officer Applications
+- Customer Applications
+- Admin Dashboards
+- APIs
+- Third-party integrations
+- KYC workflows
+- Banking integrations
+- LMS integrations
+
+### Major Testing Responsibilities
+
+- Functional Testing
+- Regression Testing
+- API Testing
+- SQL Database Validation
+- Integration Testing
+- UAT
+- Production Validation
+- Defect Management
+- Release Validation
+- Automation Testing
+
+### Third-Party Integrations
+
+- Digio
+- Bureau
+- KYC
+- LMS
+- Banking services
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Appium-662D91?logo=appium&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/REST_Assured-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaviKantBadola&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviKantBadola&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviKantBadola&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaviKantBadola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🔐 Security Testing
+- 🎭 Advanced Playwright
+- 🤖 Advanced Test Automation
+- 🔌 Advanced API Automation
+- ☕ Java for SDET
+- 🐍 Python for Automation
+- ⚙️ CI/CD Automation
+- 🏗️ Automation Framework Design
+
+---
+
+# 🎯 Career Focus
+
+I'm currently looking for opportunities in:
+
+- QA Engineer
+- SDET
+- Automation Test Engineer
+- Software Test Engineer
+- Product QA Engineer
+- API Test Engineer
+
+I'm particularly interested in building scalable automation frameworks and improving product quality through intelligent testing strategies.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ravi-kant-badola/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/RaviKantBadola">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</a>
+
+<a href="https://ravikantbadola.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+## 💡 QA Mindset
+
+> "Quality is not just about finding bugs.  
+> It's about preventing them, understanding the user's perspective, and building confidence in the product."
+
+---
+
+<p align="center">
+⭐ If you find my projects useful, consider giving them a star!
+</p>
