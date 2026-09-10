@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Kant Badola</h1>
 
 <h3 align="center">
-QA Engineer | SDET | Software Testing | Automation | API Testing
+QA Engineer | SDET | Automation Testing | API Testing | Mobile Testing
 </h3>
 
 <p align="center">
@@ -20,85 +20,88 @@ QA Engineer | SDET | Software Testing | Automation | API Testing
 
 ## 👨‍💻 About Me
 
-I'm a **QA Engineer / SDET** with **2.5+ years of experience** in software testing, working across **FinTech, Blockchain, Web, Mobile, and API-based applications**.
+I'm a **QA Engineer / SDET with 2.5+ years of experience** in software testing, with hands-on experience across **FinTech, Blockchain, Web, Mobile, and API-based applications**.
 
-I focus on building reliable software through a combination of:
+My focus is on delivering reliable, high-quality software through a combination of **manual testing, automation, API validation, database testing, and end-to-end quality assurance**.
 
-- 🧪 Manual & Functional Testing
-- 🔄 Regression, Smoke & Sanity Testing
-- 🤖 UI Automation
-- 🔌 API Testing
-- 📱 Mobile Application Testing
-- 🗄️ Database / SQL Validation
-- 🔗 Integration Testing
-- 🚀 UAT & Production Validation
-- 🐞 Defect Tracking & Root Cause Analysis
-- ⚙️ CI/CD & Test Automation
+### What I Do
 
-I enjoy exploring application behavior, identifying edge cases, automating repetitive scenarios, and continuously improving software quality.
+* 🧪 Manual & Functional Testing
+* 🤖 UI Test Automation
+* 🔌 REST API Testing
+* 📱 Mobile Application Testing
+* 🗄️ SQL & Database Validation
+* 🔄 Regression, Smoke & Sanity Testing
+* 🔗 Integration & End-to-End Testing
+* 🚀 UAT & Production Validation
+* 🐞 Defect Tracking & Root Cause Analysis
+* ⚙️ CI/CD & Automation Execution
+
+I enjoy exploring application behavior, identifying edge cases, automating repetitive scenarios, and improving the overall quality of software products.
 
 ---
 
-## 🛠️ Testing Expertise
+# 🛠️ Testing Expertise
 
-### 🧪 Manual Testing
+## 🧪 Manual Testing
 
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- Integration Testing
-- System Testing
-- UAT
-- Exploratory Testing
-- Compatibility Testing
-- UI/UX Testing
-- End-to-End Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* Sanity Testing
+* Integration Testing
+* System Testing
+* UAT
+* Exploratory Testing
+* Compatibility Testing
+* UI Testing
+* End-to-End Testing
+* Production Validation
 
-### 🤖 Automation Testing
+## 🤖 Automation Testing
 
-- Selenium WebDriver
-- Cypress
-- Playwright
-- Appium
-- TestNG
-- JUnit
-- PyTest
-- Cucumber
-- Page Object Model (POM)
+* Selenium WebDriver
+* Cypress
+* Appium
+* TestNG
+* Page Object Model (POM)
+* Data-Driven Testing
+* Reusable Automation Components
+* Web & Mobile Automation
 
-### 🔌 API Testing
+## 🔌 API Testing
 
-- Postman
-- REST API Testing
-- REST Assured
-- HTTP Methods
-- Status Code Validation
-- Request / Response Validation
-- JSON Validation
-- Positive & Negative Testing
-- API Integration Testing
+* Postman
+* REST API Testing
+* HTTP Methods
+* Status Code Validation
+* Request / Response Validation
+* JSON Validation
+* Positive & Negative Testing
+* API Integration Testing
+* API Assertions
 
-### 🗄️ Database Testing
+## 🗄️ Database Testing
 
-- SQL
-- CRUD Operations
-- Joins
-- Subqueries
-- Data Validation
-- Backend Verification
+* SQL
+* CRUD Operations
+* Joins
+* Subqueries
+* Data Validation
+* Backend Verification
 
-### 🚀 DevOps / Tools
+## 🚀 Tools & DevOps
 
-- Git
-- GitHub
-- Jenkins
-- Jira
-- Plane
-- Trello
-- VS Code
-- IntelliJ IDEA
-- Android Studio
+* Git
+* GitHub
+* Jenkins
+* Jira
+* Plane
+* Trello
+* Maven
+* VS Code
+* IntelliJ IDEA
+* Android Studio
 
 ---
 
@@ -108,54 +111,45 @@ I enjoy exploring application behavior, identifying edge cases, automating repet
 
 **Tech Stack:** Cypress | JavaScript | Page Object Model | UI Automation
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/RaviKantBadola/Thesouledstore-Automation
 
-### What I worked on
+### Highlights
 
-- Automated critical e-commerce user workflows.
-- Created reusable automation components.
-- Implemented Page Object Model.
-- Automated UI validation using Cypress.
-- Covered functional and regression scenarios.
-- Validated page elements, navigation and user interactions.
-- Generated automation execution reports.
+* Automated critical e-commerce user workflows.
+* Implemented Page Object Model.
+* Created reusable automation components.
+* Automated UI validations using Cypress.
+* Covered functional and regression scenarios.
+* Validated navigation, page elements and user interactions.
+* Worked on automation execution and reporting.
 
-### Key Learning
+### Key Skills
 
-- Cypress automation
-- JavaScript-based test automation
-- Reusable test architecture
-- Locator strategy
-- End-to-End automation
+`Cypress` `JavaScript` `POM` `UI Automation` `Regression Testing`
 
 ---
 
 ## 🔌 GitHub API Testing
 
-**Tech Stack:** REST API | Postman | JavaScript | API Testing
+**Tech Stack:** Cypress | JavaScript | REST API | API Testing
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/RaviKantBadola/Github-Api-Testing
 
-### What I worked on
+### Highlights
 
-- Tested GitHub REST APIs.
-- Designed positive and negative test scenarios.
-- Validated HTTP status codes.
-- Validated request and response payloads.
-- Verified API response data.
-- Tested different API conditions and edge cases.
-- Practiced API functional and integration testing.
+* Tested GitHub REST APIs.
+* Designed positive and negative API scenarios.
+* Validated HTTP status codes.
+* Validated request and response payloads.
+* Verified JSON response data.
+* Tested different API conditions and edge cases.
+* Performed API functional and integration testing.
 
-### Key Learning
+### Key Skills
 
-- REST API testing
-- HTTP methods
-- Response validation
-- API assertions
-- Negative testing
-- Backend validation
+`REST API` `Cypress` `JavaScript` `HTTP Methods` `JSON` `API Assertions`
 
 ---
 
@@ -163,68 +157,68 @@ https://github.com/RaviKantBadola/Github-Api-Testing
 
 **Tech Stack:** Java | Appium | TestNG | Android
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/RaviKantBadola/MobileAppAutomationJava
 
-### What I worked on
+### Highlights
 
-- Automated Android application workflows.
-- Created functional mobile automation scripts.
-- Validated UI elements and user interactions.
-- Automated application navigation.
-- Executed regression scenarios.
-- Used reusable automation components.
-- Worked with Appium and TestNG.
+* Automated Android application workflows.
+* Created functional mobile automation scripts.
+* Validated UI elements and user interactions.
+* Automated application navigation.
+* Executed regression scenarios.
+* Used reusable automation components.
+* Worked with Appium and TestNG.
 
-### Key Learning
+### Key Skills
 
-- Mobile automation
-- Appium
-- Android testing
-- TestNG
-- Mobile element identification
-- Automation framework structure
+`Java` `Appium` `TestNG` `Android` `Mobile Automation`
 
 ---
 
 # 💼 Professional Experience
 
-### Quality Analyst — PlugSeal Innovation Services Pvt. Ltd.
+## Quality Analyst — PlugSeal Innovation Services Pvt. Ltd.
 
 **Feb 2024 – Aug 2026**
 
-Worked on **FinTech and Blockchain applications** involving:
+Worked on **FinTech and Blockchain-based applications** involving multiple interconnected systems and third-party integrations.
 
-- Loan Origination Systems
-- Officer Applications
-- Customer Applications
-- Admin Dashboards
-- APIs
-- Third-party integrations
-- KYC workflows
-- Banking integrations
-- LMS integrations
+### Products & Systems
 
-### Major Testing Responsibilities
+* Loan Origination Systems
+* Officer Applications
+* Customer Applications
+* Admin Dashboards
+* REST APIs
+* Third-Party Integrations
+* KYC Workflows
+* Banking Integrations
+* LMS Integrations
 
-- Functional Testing
-- Regression Testing
-- API Testing
-- SQL Database Validation
-- Integration Testing
-- UAT
-- Production Validation
-- Defect Management
-- Release Validation
-- Automation Testing
+### Testing Responsibilities
 
-### Third-Party Integrations
+* Functional Testing
+* Regression Testing
+* API Testing
+* SQL Database Validation
+* Integration Testing
+* UAT
+* Production Validation
+* Defect Management
+* Release Validation
+* Automation Testing
 
-- Digio
-- Bureau
-- KYC
-- LMS
-- Banking services
+### Integration Testing
+
+Worked with integrations involving:
+
+* Digio
+* KYC Services
+* Credit Bureau Services
+* LMS
+* Banking Services
+* Third-Party APIs
 
 ---
 
@@ -242,13 +236,11 @@ Worked on **FinTech and Blockchain applications** involving:
 
 <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Appium-662D91?logo=appium&logoColor=white&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/REST_Assured-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 
@@ -296,29 +288,29 @@ Worked on **FinTech and Blockchain applications** involving:
 
 # 📚 Currently Learning
 
-- 🔐 Security Testing
-- 🎭 Advanced Playwright
-- 🤖 Advanced Test Automation
-- 🔌 Advanced API Automation
-- ☕ Java for SDET
-- 🐍 Python for Automation
-- ⚙️ CI/CD Automation
-- 🏗️ Automation Framework Design
+* 🔐 Security Testing
+* 🎭 Advanced Playwright
+* 🤖 Advanced Test Automation
+* 🔌 Advanced API Automation
+* ☕ Java for SDET
+* 🐍 Python for Automation
+* ⚙️ CI/CD Automation
+* 🏗️ Automation Framework Design
 
 ---
 
 # 🎯 Career Focus
 
-I'm currently looking for opportunities in:
+I'm currently looking for opportunities as:
 
-- QA Engineer
-- SDET
-- Automation Test Engineer
-- Software Test Engineer
-- Product QA Engineer
-- API Test Engineer
+* **QA Engineer**
+* **SDET**
+* **Automation Test Engineer**
+* **Software Test Engineer**
+* **Product QA Engineer**
+* **API Test Engineer**
 
-I'm particularly interested in building scalable automation frameworks and improving product quality through intelligent testing strategies.
+I'm particularly interested in opportunities where I can contribute to **test automation, API testing, quality engineering, and scalable automation framework development**.
 
 ---
 
@@ -342,10 +334,10 @@ I'm particularly interested in building scalable automation frameworks and impro
 
 ---
 
-## 💡 QA Mindset
+# 💡 QA Mindset
 
-> "Quality is not just about finding bugs.  
-> It's about preventing them, understanding the user's perspective, and building confidence in the product."
+> **"Quality is not just about finding bugs.
+> It's about understanding the user's perspective, preventing defects, and building confidence in the product."**
 
 ---
 
